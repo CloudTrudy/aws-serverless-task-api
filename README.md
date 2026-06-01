@@ -25,36 +25,29 @@ This project is a serverless CRUD API built using AWS services. It allows users 
 # Testing Evidence
 
 ## POST Request
-
 ![POST Request](post-request-reqbin.png)
- 
- 
- 
- 
- ## GET Request
-![GET Request](get-request.png)DynamoDB Table
 
+---
 
+## GET Request
+![GET Request](get-request.png)
 
+---
 
+## DynamoDB Table
+![DynamoDB Table](dynamodb-tasks.png)
 
+---
 
 ## Lambda Function
+![Lambda Function 1](lambda-code-1.png)
+![Lambda Function 2](lambda-code-2.png)
+![Lambda Function 3](lambda-code-3.png)
 
-![Lambda Function](lambda-code-1.png)
+---
 
-
-![Lambda Function](lambda-code-2.png)
-
-
-
-![Lambda Function](lambda-code-3.png)
-
-
-# API Gateway Routes
-
+## API Gateway Routes
 ![API Gateway Routes](api-gateway-routes.png)
-
  # Result
 The API successfully stores and retrieves data using AWS serverless architecture.
 
