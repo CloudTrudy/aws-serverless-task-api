@@ -32,7 +32,7 @@ This project is a serverless CRUD API built using AWS services. It allows users 
 ## GET Request
 ![GET Request](get-request.png)
 
----
+
 
 ## DynamoDB Table
 ![DynamoDB Table](dynamodb-tasks.png)
