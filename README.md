@@ -28,6 +28,8 @@ POST Request
 
 ![POST Request](post-request-reqbin.png)
  
+ 
+ 
  GET Request
 
 ![GET Request](get-request.png)DynamoDB Table
@@ -37,7 +39,9 @@ POST Request
 
 ![Lambda Function](lambda-code-1.png)
 
+
 ![Lambda Function](lambda-code-2.png)
+
 
 
 ![Lambda Function](lambda-code-3.png)
