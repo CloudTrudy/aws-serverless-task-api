@@ -27,8 +27,12 @@ This project is a serverless CRUD API built using AWS services. It allows users 
 ## POST Request
 ![POST Request](post-request-reqbin.png)
 
+---
+
 ## GET Request
 ![GET Request](get-request.png)
+
+---
 
 ## DynamoDB Table
 ![DynamoDB Table](dynamodb-tasks.png)
