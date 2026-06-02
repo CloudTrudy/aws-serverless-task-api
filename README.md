@@ -1,4 +1,4 @@
-# Aws-Serverless-Task-API
+# AWS-Serverless-Task-API
 Serverless Task API using AWS Lambda, API Gateway, and DynamoDB
 # Serverless Task Management API (AWS)
 
